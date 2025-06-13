@@ -1,0 +1,9 @@
+This directory will contain game audio files.
+
+For a real implementation, you would need to create or obtain the following audio assets:
+- shoot.mp3
+- hit.mp3
+- pickup.mp3
+- zone-warning.mp3
+- game-music.mp3
+- menu-music.mp3

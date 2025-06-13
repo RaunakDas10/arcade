@@ -1,0 +1,19 @@
+This directory will contain game images.
+
+For a real implementation, you would need to create or obtain the following image assets:
+- player-blue.png
+- player-red.png
+- player-green.png
+- player-yellow.png
+- bullet.png
+- weapon-pistol.png
+- weapon-rifle.png
+- weapon-shotgun.png
+- tileset.png
+- zone-border.png
+- button.png
+- health-bar.png
+- joystick.png
+- joystick-base.png
+- logo.png
+- loading-background.png

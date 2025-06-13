@@ -1,0 +1,24 @@
+{
+  "name": "mini-drop-pixel-royale-backend",
+  "version": "1.0.0",
+  "description": "Backend for Mini Drop: Pixel Royale game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "serverless",
+    "game-backend"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1386.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}

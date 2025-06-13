@@ -1,0 +1,29 @@
+{
+  "name": "mini-drop-pixel-royale-infra",
+  "version": "1.0.0",
+  "description": "Infrastructure for Mini Drop: Pixel Royale game",
+  "main": "index.js",
+  "scripts": {
+    "bootstrap": "cdk bootstrap",
+    "deploy": "cdk deploy",
+    "destroy": "cdk destroy",
+    "synth": "cdk synth",
+    "diff": "cdk diff"
+  },
+  "keywords": [
+    "aws",
+    "cdk",
+    "infrastructure"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aws-cdk-lib": "^2.80.0",
+    "constructs": "^10.2.52"
+  },
+  "devDependencies": {
+    "aws-cdk": "^2.80.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
